@@ -15,3 +15,17 @@ Después de esto se tendrá que ejecutar el comando “ng s” y esperaremos a q
 Abriremos el navegador y escribiremos en la barra de búsqueda la siguiente ruta: “http://localhost:4200/”.
 ![image](https://user-images.githubusercontent.com/123588637/231277334-ce758c13-438c-4aa7-ba26-c08f19cae14f.png)
 
+Proceso de instalación para el Back-end:
+En otra terminal sin cerrar la otra se realiza el siguiente proceso
+Abriremos la carpeta de backend-mongo que nos descargó el paso anterior del paso anterior y esa carpeta la abrimos en una terminal, después escribiremos el comando “npm i --force” para que descargue todas las dependencias utilizadas y esperaremos a que termine el proceso.
+![image](https://user-images.githubusercontent.com/123588637/231279845-5e1d29db-0ebf-46ea-a681-82d1b3cb6c53.png)
+
+Después de esto se tendrá que ejecutar el comando “nodemon start” y esperaremos a que finalice el proceso.
+![image](https://user-images.githubusercontent.com/123588637/231279860-140a7ea7-104c-4407-af92-1adeccb35d60.png)
+
+Y listo para que funcione tienen que estar el frontend y backend ejecutándose en diferentes terminales como se mostró.
+De esta forma el proyecto funcionara de manera correcta pudiendo agregar producto, eliminarlos, actualizarlos, enlistarlos y agregarlos al carrito.
+Cabe recalcar que el proceso de instalación solo se realiza la primera vez que se descarga el proyecto, ya después con ejecutar los comandos “ng s” y “nodemon start” como se mostro es mas que suficiente para hacer funcionar el proyecto.
+
+
+
