@@ -1,0 +1,51 @@
+:host {
+    display: block;
+    height: 400px;
+    width: 300px;
+    border: 1px solid rgb(13, 1, 114);
+    border-radius: 15px;
+    box-shadow: 4px 4px rgb(13, 1, 114);
+    margin: 10px;
+    padding: 10px;
+    }
+    /* Cambia el fondo del titulo del dialog */
+p-dialog ::ng-deep .p-dialog-header {
+    background-color: #01227e;
+    font-size: large;
+  }
+  
+  /* Cambiar el color del boton X en el dialog */
+  p-dialog ::ng-deep .p-dialog-header-close-icon {
+    color: rgb(13, 1, 114);
+  }
+  
+  /* Cambia el color de la letra del titulo del dialog */
+  p-dialog ::ng-deep .p-dialog-header .p-dialog-title {
+    color: rgb(0, 0, 0);
+  }
+  
+  /* Cambia el fondo del contenido del dialog */
+  p-dialog ::ng-deep .p-dialog-content {
+    background-color: rgb(247, 214, 240);
+  }
+  
+  /* Cambia las etiquetas p o la descripcion en el dialog */
+  p-dialog ::ng-deep .p-dialog-content p {
+    color: black;
+    font-size: large;
+  }
+  
+  /* Borde redondeado al boton del dialog */
+  p-dialog ::ng-deep .p-dialog-content button {
+    border-radius: 30px;
+  }
+  
+  /* Estilo para las imagenes del dialog */
+  p-dialog ::ng-deep .p-dialog-content img {
+    border-color: #f2bdbd;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 30px;
+  }
+    

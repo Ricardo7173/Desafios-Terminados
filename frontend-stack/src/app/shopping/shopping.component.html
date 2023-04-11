@@ -1,0 +1,6 @@
+<h3>Shopping Prices</h3>
+
+<div class="shopping-item" *ngFor="let shopping of shoppingCosts | async">
+  <span>{{ shopping.type }}</span>
+  <span>{{ shopping.price | currency }}</span>
+</div>
