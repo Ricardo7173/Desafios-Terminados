@@ -27,5 +27,8 @@ Y listo para que funcione tienen que estar el frontend y backend ejecutándose e
 De esta forma el proyecto funcionara de manera correcta pudiendo agregar producto, eliminarlos, actualizarlos, enlistarlos y agregarlos al carrito.
 Cabe recalcar que el proceso de instalación solo se realiza la primera vez que se descarga el proyecto, ya después con ejecutar los comandos “ng s” y “nodemon start” como se mostro es mas que suficiente para hacer funcionar el proyecto.
 
+Así se ve con un producto agregado 
+![image](https://user-images.githubusercontent.com/123588637/231281025-28499ecd-3e6e-459d-baba-6f84d3c9cf9b.png)
+![image](https://user-images.githubusercontent.com/123588637/231281132-b8bd72ab-beda-4361-a2ec-56c78b37ba67.png)
 
 
