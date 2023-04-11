@@ -5,7 +5,7 @@ Backend y Frontend del proyecto carrito
 Primero se descarga el repositorio ya sea clonándolo o descárgalo como un archivo comprimido para después descomprimirlo.
 
 Proceso de instalación para el Front-end:
-Abriremos la carpeta que nos descargó el paso anterior y abriremos una terminal nueva, después escribiremos el comando “npm i --force” para que descargue todas las dependencias utilizadas y esperaremos a que termine el proceso.
+Abriremos la carpeta de frontend-stack que nos descargó el paso anterior del paso anterior y esa carpeta la abrimos en una terminal, después escribiremos el comando “npm i --force” para que descargue todas las dependencias utilizadas y esperaremos a que termine el proceso.
  ![image](https://user-images.githubusercontent.com/123588637/231276827-ba484a3f-6507-4bf4-ba1f-c8c5737b9604.png)
 ![image](https://user-images.githubusercontent.com/123588637/231276891-5e102820-c3b4-49bf-8b31-4f04f2c1e925.png)
  
